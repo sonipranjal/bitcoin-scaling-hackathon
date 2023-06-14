@@ -1,3 +1,4 @@
+Hello world
 # Rootstock: Bitcoin Scaling Hackathon
 Repository for "Rootstock: Bitcoin Scaling Hackathon" submissions
 
